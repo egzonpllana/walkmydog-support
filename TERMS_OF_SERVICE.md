@@ -29,18 +29,28 @@ Premium access unlocks the following features:
 - iCloud sync across devices
 - Ad-free experience
 
-## 5. Food Safety Information Disclaimer
+## 5. AI-Generated Content — Full Disclaimer
 
-The food safety database provided in the app is for informational purposes only. While we strive to provide accurate and up-to-date information, it should not be considered a substitute for professional veterinary advice. Always consult your veterinarian before introducing new foods to your dog's diet, especially if your dog has known allergies or health conditions.
+Walk My Dog Planner uses AI algorithms to generate walk plans, food safety assessments, breed-specific recommendations, and other suggestions. **By using the app, you acknowledge and agree to the following:**
 
-## 6. AI Walk Plans Disclaimer
+- **All AI-generated content is for informational and suggestive purposes only.** It does not constitute medical advice, veterinary guidance, professional diagnosis, or treatment recommendations.
+- AI-generated content is **not** first-hand information. It is produced by algorithms based on general data and may be inaccurate, incomplete, outdated, or unsuitable for your specific dog.
+- **You, the user, are solely responsible for all decisions** you make based on any AI-generated content in the app, including but not limited to decisions about your dog's diet, exercise, health care, and daily routines.
+- The app **does not replace** a licensed veterinarian. You should always seek professional veterinary advice before acting on any suggestion provided by the app, especially regarding health conditions, dietary changes, or new exercise regimens.
+- We **make no warranties or representations** regarding the accuracy, reliability, completeness, or suitability of any AI-generated content for any purpose.
+- We **expressly disclaim all liability** for any harm, injury, illness, death, or loss to any animal or person resulting directly or indirectly from reliance on AI-generated content provided by the app.
+- If your dog has existing health conditions, allergies, is a senior, a puppy, pregnant, or has any special needs, AI-generated suggestions may be particularly unsuitable. **Professional veterinary consultation is strongly recommended.**
 
-AI-generated walk plans are recommendations based on general breed and age data. They do not account for individual health conditions or specific veterinary advice. Consult your veterinarian before starting any new exercise regimen for your dog, particularly for dogs with health issues, senior dogs, or puppies.
+## 6. Food Safety Information Disclaimer
 
-## 7. User Responsibilities
+The food safety database provided in the app is for informational purposes only. Food safety ratings, allergy warnings, and breed-specific guidance are general suggestions and **not** a substitute for professional veterinary advice. Individual dogs may react differently to foods based on their unique health profile. Always consult your veterinarian before introducing new foods to your dog's diet.
+
+## 7. User Responsibilities and Assumption of Risk
 
 - You are responsible for the accuracy of the information you enter into the app.
 - You are responsible for the safety and well-being of your dog during walks and activities.
+- **You assume all risk** associated with acting on any information, suggestion, or AI-generated content provided by the app.
+- You acknowledge that the app is a planning and informational tool and not a substitute for professional veterinary care, training, or medical treatment.
 - You agree not to misuse the app or attempt to interfere with its functionality.
 
 ## 8. Intellectual Property
@@ -49,7 +59,7 @@ All content, design, code, and features of Walk My Dog Planner are the intellect
 
 ## 9. Limitation of Liability
 
-Walk My Dog Planner is provided "as is" without warranties of any kind. We are not liable for any damages arising from your use of the app, including but not limited to data loss, injury to pets, or reliance on food safety or AI-generated information.
+Walk My Dog Planner is provided "as is" and "as available" without warranties of any kind, whether express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement. We are not liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from your use of the app, including but not limited to data loss, injury or harm to pets or persons, veterinary expenses, or any consequences of reliance on food safety information, AI-generated content, or any other information provided by the app. **Your use of AI-generated content and all app features is entirely at your own risk.**
 
 ## 10. Termination
 

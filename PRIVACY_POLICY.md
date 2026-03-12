@@ -38,7 +38,22 @@ Walk My Dog Planner offers optional premium subscriptions and a lifetime purchas
 
 The app may request permission to send local notifications and alarms for walk reminders. These are processed entirely on your device. No notification data is sent to external servers.
 
-## AI Walk Planner
+## AI-Generated Content Disclaimer
+
+Walk My Dog Planner uses AI to generate walk plans, food safety assessments, and other suggestions. **All AI-generated content is provided strictly for informational and suggestive purposes only.** It is not medical advice, veterinary guidance, or a substitute for professional consultation.
+
+AI-generated content:
+
+- Is **not** first-hand medical or veterinary information.
+- Is **not** a diagnosis, treatment recommendation, or professional opinion.
+- May contain inaccuracies, outdated information, or suggestions that are not appropriate for your specific dog's health condition.
+- Should **never** be used as the sole basis for decisions regarding your dog's health, diet, exercise, or well-being.
+
+**You, the user, bear full responsibility for any decisions made based on AI-generated content in this app.** Always consult a licensed veterinarian before making changes to your dog's diet, exercise routine, or health care. We strongly recommend professional veterinary advice for any health-related concerns.
+
+We expressly disclaim any liability for harm, injury, illness, or loss resulting from reliance on AI-generated content provided by the app.
+
+## AI Walk Planner — Data Handling
 
 The AI Walk Planner generates personalized walk schedules based on your dog's profile data (breed, age, weight). All processing happens on-device. No dog data is sent to external AI services or servers.
 
